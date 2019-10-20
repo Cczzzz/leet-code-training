@@ -17,7 +17,7 @@
  * Note:
  * All given inputs are in lowercase letters a-z.
  */
-public class leetCode20191016 {
+public class LeetCode20191016 {
     public static void main(String[] args) {
         String[] strings = new String[]{"afaffloweraaaa", "vvflowaaaa", "11111flightaaaa"};
         System.out.println(contains("afafflower", "vv"));

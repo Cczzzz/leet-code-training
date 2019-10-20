@@ -10,7 +10,7 @@ import java.util.List;
  * Return the starting gas station's index if you can travel around the circuit once in the clockwise direction,
  * otherwise return -1.
  */
-public class leetCode20191017 {
+public class LeetCode20191017 {
 
     public static void main(String[] args) {
         int[] gas = new int[]{1, 5, 8, 7, 9, 4, 1, 9};
